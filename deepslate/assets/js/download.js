@@ -89,7 +89,7 @@ $(document).ready(function () {
         <!--<p class="release-description">${release.description}</p>-->
         <a href="${release.downloadUrl}" class="download-button">Download</a>
         <span class="button-space"></span>
-        <a href="https://github.com/ForkMC/Fork/releases/latest" class="download-button">Release Notes</a>
+        <a href="https://github.com/DeepslateMC/Deepslate/releases/latest" class="download-button">Release Notes</a>
       </div>
     `;
     $("#latest-downloads").append(releaseHTML);
