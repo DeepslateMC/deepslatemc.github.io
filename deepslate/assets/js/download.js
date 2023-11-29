@@ -1,6 +1,6 @@
 $(document).ready(function () {
-  var repoOwner = "ForkMC";
-  var repoName = "Fork";
+  var repoOwner = "DeepslateMC";
+  var repoName = "Deepslate";
   var releasesApiUrl = "https://api.github.com/repos/" + repoOwner + "/" + repoName + "/releases";
   var latestReleaseApiUrl = "https://api.github.com/repos/" + repoOwner + "/" + repoName + "/releases/latest";
 
